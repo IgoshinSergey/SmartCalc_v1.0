@@ -65,11 +65,9 @@ gcov_report: clean
 	$(OPEN_CMD) ./report/index.html
 
 clang:
-	cp ../materials/linters/.clang-format .
-	clang-format -i calculations/*.c calculations/*.h
-	clang-format -i unit_tests/*.c unit_tests/*.h
-	clang-format -i qt/*.cpp qt/*.h
-	rm -rf .clang-format
+	clang-format -n calculations/*.c calculations/*.h
+	clang-format -n unit_tests/*.c unit_tests/*.h
+	clang-format -n qt/*.cpp qt/*.h
 
 clean:
 	rm -rf *.o build/ report/ \

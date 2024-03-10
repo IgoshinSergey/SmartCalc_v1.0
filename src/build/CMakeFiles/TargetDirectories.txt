@@ -1,0 +1,8 @@
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/SmartCalc.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/edit_cache.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/rebuild_cache.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/list_install_components.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/install.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/install/local.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/install/strip.dir
+/home/sergeyigoshin/School21/github/SmartCalc_v1.0/src/build/CMakeFiles/SmartCalc_autogen.dir
